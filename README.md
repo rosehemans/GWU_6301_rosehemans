@@ -87,6 +87,7 @@ PAY_0 and PAY_2 are the two most important variables in the model. These calcula
 
 #### Final Iteration Plot
 The iteration plot indicates that a tree depth of 7 for the model would provide the best trade-off between fairness and accuracy.
+
 ![Iteration Plot](https://github.com/rosehemans/GWU_6301_rosehemans/blob/main/final%20iteration%20plot.png)
 
 
